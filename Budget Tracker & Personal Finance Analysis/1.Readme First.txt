@@ -8,9 +8,9 @@
 
 ## Budget Tracker and Personal Finance Analysis
 
-📊 This project explores total expenses by category, monthly income expenses net savings , expense forecast and payment methods usage using Simulation data.
+📊 This project explores total expenses by category, monthly income expenses net savings , expense forecast and payment methods usage using Simulate data.
 
-- 📁 Dataset: Simulation dataset
+- 📁 Dataset: Simulate dataset
 - 🛠 Tools: Pandas, Seaborn, Matplotlib, Plotly
 - 📈 Plots: total expenses by category, monthly income expenses net savings , expense forecast and payment methods usage
 
