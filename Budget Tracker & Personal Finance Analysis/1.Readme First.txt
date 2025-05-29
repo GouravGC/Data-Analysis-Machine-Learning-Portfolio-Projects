@@ -11,7 +11,7 @@
 📊 This project explores total expenses by category, monthly income expenses net savings , expense forecast and payment methods usage using Simulate data.
 
 - 📁 Dataset: Simulate dataset
-- 🛠 Tools: Pandas, Seaborn, Matplotlib, Plotly
+- 🛠 Tools: Numpy , Pandas , Seaborn , Matplotlib , Plotly
 - 📈 Plots: total expenses by category, monthly income expenses net savings , expense forecast and payment methods usage
 
 🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/Budget%20Tracker%20%26%20Personal%20Finance%20Analysis/Budget%20Tracker%20%26%20Personal%20Finance%20Analysis.ipynb)
