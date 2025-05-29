@@ -1,0 +1,7 @@
+3 Files Are There _
+
+1.CSV File/Files=Contain Data Dataset/Datasets
+
+2.Ipynb File=Single File contain whole code from importing dataset till plots and exporting plots to single HTML . Only single ipynb file is there 
+
+3.HTML File=Contain all the plots only single html file is there 
