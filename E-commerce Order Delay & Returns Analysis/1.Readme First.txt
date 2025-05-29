@@ -8,10 +8,10 @@
 
 ## E-commerce Order Delay & Returns Analysis
 
-📊 This project explores return rate by category, return rate by vendor , expense forecast and payment methods usage using Simulation data.
+📊 This project explores return rate by category, return rate by vendor , Average Delivery Time by Region , Delay Distribution by Product Category and Correlation Between Delay and Returns using Simulate data.
 
-- 📁 Dataset: Simulation dataset
+- 📁 Dataset: Simulate dataset
 - 🛠 Tools: Pandas, Seaborn, Matplotlib, Plotly
-- 📈 Plots: total expenses by category, monthly income expenses net savings , average delivery delay by region , delivery delay days by product category and return rate vs delay orders
+- 📈 Plots: return rate by category, return rate by vendor , Average Delivery Time by Region , Delay Distribution by Product Category and Correlation Between Delay and Returns
 
 🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/E-commerce%20Order%20Delay%20%26%20Returns%20Analysis/E-commerce%20Order%20Delay%20%26%20Returns%20Analysis.ipynb)
