@@ -11,7 +11,7 @@
 📊 This project explores return rate by category, return rate by vendor , Average Delivery Time by Region , Delay Distribution by Product Category and Correlation Between Delay and Returns using Simulate data.
 
 - 📁 Dataset: Simulate dataset
-- 🛠 Tools: Pandas, Seaborn, Matplotlib, Plotly
+- 🛠 Tools: Numpy, Pandas, Seaborn, Matplotlib, Plotly
 - 📈 Plots: return rate by category, return rate by vendor , Average Delivery Time by Region , Delay Distribution by Product Category and Correlation Between Delay and Returns
 
 🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/E-commerce%20Order%20Delay%20%26%20Returns%20Analysis/E-commerce%20Order%20Delay%20%26%20Returns%20Analysis.ipynb)
