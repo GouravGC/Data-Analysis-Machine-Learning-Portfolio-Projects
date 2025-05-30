@@ -8,9 +8,9 @@
 
 ## Real Estate Data Analysis
 
-📊 This project explores Average Price per Sqft by City , Top 10 Expensive Localities Across Cities , Price per Sqft Distribution by BHK and City , Where to Buy in 2025 using Simulate data.
+📊 This project explores Average Price per Sqft by City , Top 10 Expensive Localities Across Cities , Price per Sqft Distribution by BHK and City , Where to Buy in 2025 using Bangalore , Pune , Delhi (India) datasets.
 
-- 📁 Dataset: Simulate dataset
+- 📁 Dataset: Bangalore , Pune , Delhi (India) Datasets
 - 🛠 Tools: Numpy , Pandas , Seaborn , Matplotlib , Plotly
 - 📈 Plots: Average Price per Sqft by City , Top 10 Expensive Localities Across Cities , Price per Sqft Distribution by BHK and City , Where to Buy in 2025
 
