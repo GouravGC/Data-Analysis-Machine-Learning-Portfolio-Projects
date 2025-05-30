@@ -1,0 +1,17 @@
+In this project
+
+1.Dataset Folder=Contain Dataset/Datasets
+
+2.Dashboards Folder=Contain dashboards Images or HTML file or Tableu or PowerBi file
+
+3.Ipynb file=Contain whole source code
+
+## Retail Sales Analysis
+
+📊 This project explores Top Genres by Count (Interactive Bar Chart) , Movie vs TV Show Split by Year , Top Countries Producing Netflix Content , WordCloud (Plotly-style: Convert to Image) , Interactive Pie Chart of Content Types , Top 10 Directors on Netflix , Distribution of Movie Durations , Distribution of TV Show Seasons , Monthly Netflix Content Additions Over Time
+
+- 📁 Dataset: Netflix titles public free dataset
+- 🛠 Tools: Numpy , Pandas, Seaborn , Matplotlib , Plotly
+- 📈 Plots: Top Genres by Count (Interactive Bar Chart) , Movie vs TV Show Split by Year , Top Countries Producing Netflix Content , WordCloud (Plotly-style: Convert to Image) , Interactive Pie Chart of Content Types , Top 10 Directors on Netflix , Distribution of Movie Durations , Distribution of TV Show Seasons , Monthly Netflix Content Additions Over Time
+
+🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/Netflix%20Movies%20%26%20TV%20Shows%20Analysis/Netflix%20Movies%20%26%20TV%20Shows%20Analysis.ipynb)
