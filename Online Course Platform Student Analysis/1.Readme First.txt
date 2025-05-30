@@ -5,3 +5,13 @@
 2.Ipynb File=Single File contain whole code from importing dataset till plots and exporting plots to single HTML . Only single ipynb file is there 
 
 3.HTML File=Contain all the plots only single html file is there 
+
+## Online Course Platform Student Analysis
+
+📊 This project explores Completion Rate by Course , Average Quiz Score per Course , Quiz Score vs Time Spent on Video , Average Engagement (Drop-off Point) by Course , Drop-off Timestamp Heatmap by Course using Simulate data.
+
+- 📁 Dataset: Simulate dataset
+- 🛠 Tools: Numpy , Pandas , Seaborn , Matplotlib , Plotly
+- 📈 Plots: Completion Rate by Course , Average Quiz Score per Course , Quiz Score vs Time Spent on Video , Average Engagement (Drop-off Point) by Course , Drop-off Timestamp Heatmap by Course
+
+🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/Online%20Course%20Platform%20Student%20Analysis/Online%20Course%20Platform%20Student%20Analysis.ipynb)
