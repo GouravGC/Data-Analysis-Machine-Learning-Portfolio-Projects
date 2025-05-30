@@ -1,0 +1,18 @@
+3 Files Are There _
+
+1.Dataset Folder=Contain Data Dataset/Datasets
+
+2.Ipynb File=Single File contain whole code from importing dataset till plots and exporting plots to single HTML . Only single ipynb file is there 
+
+3.PDF File=Contain all the plots only single PDF file is there
+
+## Indian Startups Funding Analysis
+
+📊 This project explores Top 15 Sectors by Total Funding , Total Startup Funding in India by Year , Top 15 Investors by Total Investment , Most Frequent Startup Names.
+
+- 📁 Dataset: Startup Funding Dataset
+- 🛠 Tools: Numpy, Pandas, Seaborn, Matplotlib, Plotly
+- 📈 Plots: Top 15 Sectors by Total Funding , Total Startup Funding in India by Year , Top 15 Investors by Total Investment , Most Frequent Startup Names.
+
+🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/Indian%20Startups%20Funding%20Analysis/Indian%20Startup%20funding.ipynb)
+ 
