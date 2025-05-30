@@ -1,0 +1,17 @@
+3 Files Are There _
+
+1.Dataset Folder=Contain Data Dataset/Datasets
+
+2.Ipynb File=Single File contain whole code from importing dataset till plots and exporting plots to single HTML . Only single ipynb file is there 
+
+3.HTML File=Contain all the plots only single html file is there made for full customization
+
+## Youtube Data Analysis
+
+📊 This project explores Distribution of Video Views , Distribution of Video Likes , Distribution of Video Duration (in seconds) , Video Duration vs Views , Average Views by Video Category , Average Likes by Video Category , Views vs Subscribers Gained , Top 20 Most Common Tags , Total Views by Upload Month  
+
+- 📁 Dataset: Youtube Public Free Dataset
+- 🛠 Tools: Numpy , Pandas , Seaborn , Matplotlib , Plotly
+- 📈 Plots: Distribution of Video Views , Distribution of Video Likes , Distribution of Video Duration (in seconds) , Video Duration vs Views , Average Views by Video Category , Average Likes by Video Category , Views vs Subscribers Gained , Top 20 Most Common Tags , Total Views by Upload Month
+
+🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/Youtube%20data%20analysis/youtube_analysis.ipynb)
