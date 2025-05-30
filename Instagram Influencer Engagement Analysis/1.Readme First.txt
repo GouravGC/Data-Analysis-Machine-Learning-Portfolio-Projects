@@ -4,4 +4,15 @@
 
 2.Ipynb File=Single File contain whole code from importing dataset till plots and exporting plots to single HTML . Only single ipynb file is there 
 
-3.HTML File=Contain all the plots only single html file is there 
+3.HTML File=Contain all the plots only single html file is there
+
+## Instagram Influencer Engagement Analysis
+
+📊 This project explores Engagement Rate by Content Type , Average Engagement Rate by Content Type , Follower Growth Trends , Top 10 Hashtags by Avg. Engagement using Simulate Data.
+
+- 📁 Dataset: Simulate Dataset
+- 🛠 Tools: Numpy, Pandas, Seaborn, Matplotlib, Plotly
+- 📈 Plots: Engagement Rate by Content Type , Average Engagement Rate by Content Type , Follower Growth Trends , Top 10 Hashtags by Avg. Engagement
+
+🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/Instagram%20Influencer%20Engagement%20Analysis/Instagram%20Influencer%20Engagement%20Analysis.ipynb)
+ 
