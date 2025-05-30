@@ -1,0 +1,19 @@
+In this project
+
+1.Bonus=Video To Show Teaser Of Data Dashboards
+
+1.Dataset Folder=Contain Dataset/Datasets
+
+2.Dashboards Folder=Contain dashboards Images or HTML file or Tableu or PowerBi file
+
+3.Ipynb file=Contain whole source code
+
+## Retail Sales Analysis
+
+📊 This project explores Monthly Sales Trend , Sales By Region , Profit By Category , Sales By Product , Sum Of Sales By Year , Sum Of Profit By Category , Sum Of Quantity By Category
+
+- 📁 Dataset: Kaggle Bangalore , Pune , Delhi dataset
+- 🛠 Tools: Numpy , Pandas, Seaborn , Matplotlib , Plotly
+- 📈 Plots: Made Through Tableu/Power Bi - Monthly Sales Trend , Sales By Region , Profit By Category , Sales By Product , Sum Of Sales By Year , Sum Of Profit By Category , Sum Of Quantity By Category
+
+🔗 Notebook Link: [View Notebook](https://github.com/GouravGC/Data-Analysis-Machine-Learning-Portfolio-Projects/blob/main/Retail%20Sales%20Analysis/sample_superstore.ipynb)
